@@ -1,0 +1,5 @@
+study_id,sex,age,findings
+CHNCXR_0368_1.png,Female,10,"left PTB,pleural thickening"
+CHNCXR_0444_1.png,Male,15,left PTB
+CHNCXR_0598_1.png,Female,15,"bilateral PTB, right pleurisy"
+CHNCXR_0630_1.png,Male,2,secondary PTB  in the bilateral upper field
